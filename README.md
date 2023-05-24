@@ -1,6 +1,6 @@
 # Datos
 
-Hoy soy Octavio López👋
+Hola soy Octavio López👋
 
 Ingeniero en Sistemas Computaciones 👨‍🎓
 
@@ -51,7 +51,7 @@ Desarrollador Web Full Stack :)
 * Github
 * Gitlab
 
-### Deploys 
+### Deploys
 
 * Docker
 * Kubernetes (k0s basico)
